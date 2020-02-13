@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raul/OneDrive/College/C++/CLion/BoardGame/main.cpp
+iostream
+-
+cstdlib
+-
+stdlib.h
+-
+vector
+-
+ctime
+-
+cmath
+-
+iomanip
+-
+
